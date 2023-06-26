@@ -1,0 +1,6 @@
+C:\Users\Valery\source\repos\Algos\Algos\bin\Debug\Algos.exe.config
+C:\Users\Valery\source\repos\Algos\Algos\bin\Debug\Algos.exe
+C:\Users\Valery\source\repos\Algos\Algos\bin\Debug\Algos.pdb
+C:\Users\Valery\source\repos\Algos\Algos\obj\Debug\Algos.csproj.CoreCompileInputs.cache
+C:\Users\Valery\source\repos\Algos\Algos\obj\Debug\Algos.exe
+C:\Users\Valery\source\repos\Algos\Algos\obj\Debug\Algos.pdb
